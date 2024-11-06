@@ -28,14 +28,6 @@ Here's an updated README to highlight Sexy Launcher Performance's new Vulkan-bas
 ![image](https://github.com/user-attachments/assets/82c31787-3512-4eff-97b9-c2e2da0dbcdd)
 
 
-### 🐞 Bug Fixes
-- **Name Length Issue**: Resolved restrictions on max characters in username.
-- **Duplicate Folder Bug**: Fixed issue with duplicate Minecraft folders opening.
-- **Singleplayer Skin Display**: Skins now render correctly in single-player mode.
-
-### 🔧 Code Modifications
-- Updated core files to implement Vulkan and integrate new features and fixes.
-
 ## Requirements
 
 - **Operating System**: Windows 10 or higher.
