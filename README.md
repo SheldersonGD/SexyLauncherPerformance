@@ -1,7 +1,3 @@
-Here's an updated README to highlight Sexy Launcher Performance's new Vulkan-based technology and enhanced FPS:
-
----
-
 # SexyLauncher Performance
 
 **SexyLauncher Performance** is a custom cracked Minecraft launcher built on Vulkan, delivering smooth gameplay and enhanced performance compared to OpenGL. This launcher provides a 40% FPS boost, creating a more immersive experience through Vulkan’s optimized graphics rendering.
@@ -50,7 +46,3 @@ Here's an updated README to highlight Sexy Launcher Performance's new Vulkan-bas
 
 ### Created by SheldersonGD  
 YouTube - [SheldersonGD](https://www.youtube.com/@SheldersonGD)
-
----
-
-This README emphasizes the benefits of Vulkan, improved performance, and the polished UI, aligning with SexyLauncher’s goals for a high-performance Minecraft experience.
