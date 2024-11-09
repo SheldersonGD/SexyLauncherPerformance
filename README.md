@@ -26,8 +26,24 @@
 
 ## Requirements
 
-- **Operating System**: Windows 10 or higher.
-- **Java**: Java 21.
+**Minimum Requirements:**
+
+- **Operating System:** Windows 10 or later.
+- **Processor:** Intel Core i3-3210, AMD A8-7600 APU.
+- **Memory:** 4 GB RAM.
+- **Graphics:**
+  - *Integrated:* Intel HD Graphics 4000 (Ivy Bridge) or AMD Radeon R5 series (Kaveri APU).
+  - *Discrete:* NVIDIA GeForce 400 Series (410+) or AMD Radeon HD 7000 series.
+- **Storage:** 1 GB available space on HDD/SSD.
+
+**Recommended Requirements:**
+
+- **Operating System:** Windows 10 or 11.
+- **Processor:** Intel Core i5-4690, AMD A10-7800 APU.
+- **Memory:** 8 GB RAM.
+- **Graphics:** Any modern non-entry-level graphics card.
+  - *Discrete:* NVIDIA GeForce 700 Series (740+) or AMD Radeon R7 200 series.
+- **Storage:** 4 GB available space on SSD.
 
 ## Installation
 
