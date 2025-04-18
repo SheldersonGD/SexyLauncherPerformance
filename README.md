@@ -73,6 +73,6 @@
 ---
 
 ### Created by SheldersonGD  
-YouTube - [SheldersonGD](https://www.youtube.com/@SheldersonGD)
+YouTube - [SHELDERSON](https://www.youtube.com/@Shelderson)
 
 Enjoy the enhanced features and smoother experience with SexyLauncher Performance! 🎮
